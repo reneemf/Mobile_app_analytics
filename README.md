@@ -6,7 +6,7 @@
 - There are approximately 2 million iOS apps available on the App Store and 2.1 million Android apps on the Google Play store (Sept. 2018)
     - Android holds about 53.2% of the smartphone market, while iOS is 43%
     
-- To understand which apps attract users in both markets I will analyze two freely available data sets:
+- To understand which apps attract users in both markets I will analyze two freely available data sets (using Python):
     - Google Play Store Apps
         - This data set contains more than 10,000 Google Play mobile applications details
         - Web scraping tools were used to extract data from the Google Play store
